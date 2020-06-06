@@ -1,8 +1,3 @@
-import math
-import os
-import sys
-from os import times
-
 import requests
 
 print("Yomi is good")
