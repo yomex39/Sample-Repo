@@ -1,7 +1,9 @@
-import requests
 import os
+import sys
 
-print("Yomi is good")
+import requests
+
+print(sys.executable)
 
 r = requests.get("https://jw.org")
 print(r.status_code)
