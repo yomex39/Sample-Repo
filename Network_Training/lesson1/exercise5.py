@@ -35,7 +35,7 @@ mac3 = labels[3]
 
 print()
 print("{:>20} {:>20}".format("IP ADDR", "MAC ADDRESS"))
-print("{:>20} {:>20}".format("-" * 20, "-" * 20))
+print("{:>20} {:>20}".format("-" * 13, "-" * 15))
 print("{:>20} {:>20}".format(ip_addr1, mac1))
 print("{:>20} {:>20}".format(ip_addr2, mac2))
 print("{:>20} {:>20}".format(ip_addr3, mac3))
